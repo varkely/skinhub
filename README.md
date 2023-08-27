@@ -4,7 +4,7 @@
 <summary align="center">Varkely</summary>
 <br>
 <div align="center">
-<a href="varkely.md">skins</a><br>
+<a href="varkely/varkely.md">skins</a><br>
 </details>
 </div>
 
@@ -12,6 +12,6 @@
 <summary align="center">Lochlan</summary>
 <br>
 <div align="center">
-<a href="lochlan.md">skins</a><br>
+<a href="lochlan/lochlan.md">skins</a><br>
 </details>
 </div>
