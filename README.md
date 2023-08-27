@@ -1,1 +1,1 @@
-<h1 align="center">osu! skinhub</h1>
+# skins
