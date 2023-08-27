@@ -1,1 +1,1 @@
-# skins
+# skin
