@@ -1,7 +1,7 @@
 <h1 align="center">
         <img src="https://i.imgur.com/WXgx7IS.png" width="275px"><br>
 </h1>
-<p align="center">
+<p style="font-size: 20px;" align="center">
     <a href="https://google.com">universal skins</a><br>
     <a href="https://yahoo.com">player skins</a>
 
