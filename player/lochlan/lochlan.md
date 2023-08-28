@@ -2,13 +2,13 @@
 <p align="center">my own personal skins.</p>
 
 # [varv](https://github.com/varkely/skinhub/raw/main/player/lochlan/lochlan_varv.osk)
-<img src="https://imgur.com/a/7fs6ToW">
+<img src="https://i.imgur.com/v5T7uoj.png">
 
 # [vax modern](https://github.com/varkely/skinhub/raw/main/player/lochlan/lochlan_vax.osk)
-<img src="https://imgur.com/a/6esXWAd">
+<img src="https://i.imgur.com/FDhD8Yg.png">
 
 # [rafis soft](https://github.com/varkely/skinhub/raw/main/player/lochlan/lochlan_rafis.osk)
-<img src="https://imgur.com/a/akpytvn">
+<img src="https://i.imgur.com/XAFR5ZR.png">
 
 # [rafis clack](https://github.com/varkely/skinhub/raw/main/player/lochlan/lochlan_clack.osk)
-<img src="https://imgur.com/a/akpytvn">
+<img src="https://i.imgur.com/XAFR5ZR.png">
