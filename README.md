@@ -1,5 +1,5 @@
 <h1 align="center">
-        <img src="https://i.imgur.com/WXgx7IS.png" width="320px"><br>
+        <img src="https://i.imgur.com/WXgx7IS.png" width="275px"><br>
 </h1>
 
 ### Contributions 🎉
