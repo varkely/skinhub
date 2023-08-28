@@ -1,17 +1,6 @@
-<h1 align="center">osu! skinhub</h1>
+<h1 align="center">
+        <img src="https://i.imgur.com/WXgx7IS.png" width="200px"><br>
+</h1>
 
-<details>
-<summary align="center">Varkely</summary>
-<br>
-<div align="center">
-<a href="varkely/varkely.md">skins</a><br>
-</details>
-</div>
-
-<details>
-<summary align="center">Lochlan</summary>
-<br>
-<div align="center">
-<a href="lochlan/lochlan.md">skins</a><br>
-</details>
-</div>
+### Contributions 🎉
+###### If you're interested in contributing to this skinhub, simply open a pull requestalla
