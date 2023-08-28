@@ -2,4 +2,4 @@
 <p align="center">list of player skins.</p>
 
 <p align="center">
-    <a href="lochlan.md">Lochlan</a><br>
+    <a href="lochlan/lochlan.md">Lochlan</a><br>
