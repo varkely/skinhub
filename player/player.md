@@ -2,7 +2,7 @@
 <p align="center">list of player skins.</p>
 
 <p align="center">
-    <a href="varkely/varkely.md">Varkely</a><br>
+    <a href="varkely/varkely.md">Varkely</a>
 
 <p align="center">
-    <a href="lochlan/lochlan.md">Lochlan</a><br>
+    <a href="lochlan/lochlan.md">Lochlan</a>
