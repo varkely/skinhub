@@ -1,5 +1,4 @@
 <h1 align="center">lochlan's skins.</h1>
-<p align="center">my own personal skins.</p>
 
 # [varv](https://github.com/varkely/skinhub/raw/main/player/lochlan/lochlan_varv.osk)
 <img src="https://i.imgur.com/v5T7uoj.png">
