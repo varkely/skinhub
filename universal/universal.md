@@ -7,7 +7,7 @@
 # [mathi ensalada v1.5](https://github.com/varkely/skinhub/raw/main/universal/Mathi_alfie_ver.osk)
 <img src="https://i.imgur.com/ZLnUiky.png">
 
-# [Monko Edit]()
+# [Monko Edit](https://github.com/varkely/skinhub/blob/main/universal/MonkoEdit.osk)
 <img src="https://i.imgur.com/YzUclnO.png">
 
 # [WhiteCat 2.1 ~ old-blue-lite](https://github.com/varkely/skinhub/raw/main/universal/WhiteCat_2.1_~_old-blue-lite.osk)
