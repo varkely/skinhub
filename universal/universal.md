@@ -4,6 +4,7 @@
 # [vv_idke_trail](https://github.com/varkely/skinhub/raw/main/universal/vv_idke_trail.osk)
 <img src="https://i.imgur.com/jCxOFVq.jpg">
 
+# [WhiteCat 2.1 ~ old-blue-lite]()
+
 # [Rafis HDDT](https://github.com/varkely/skinhub/raw/main/universal/Rafis_HDDT.osk)
 <img src="https://i.imgur.com/fjo3DIN.png">
-
