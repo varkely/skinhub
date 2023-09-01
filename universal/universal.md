@@ -7,5 +7,8 @@
 # [WhiteCat 2.1 ~ old-blue-lite](https://github.com/varkely/skinhub/raw/main/universal/WhiteCat_2.1_~_old-blue-lite.osk)
 <img src="https://i.imgur.com/sBRaaiv.png">
 
+# []
+<img src="https://i.imgur.com/vIKG19d.png">
+
 # [Rafis HDDT](https://github.com/varkely/skinhub/raw/main/universal/Rafis_HDDT.osk)
 <img src="https://i.imgur.com/fjo3DIN.png">
