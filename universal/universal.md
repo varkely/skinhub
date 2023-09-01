@@ -2,9 +2,10 @@
 <p align="center">list of very common skins that people use.</p>
 
 # [vv_idke_trail](https://github.com/varkely/skinhub/raw/main/universal/vv_idke_trail.osk)
-<img src="https://i.imgur.com/jCxOFVq.jpg">
+<img src="https://i.imgur.com/5kAVB7g.png">
 
-# [WhiteCat 2.1 ~ old-blue-lite]()
+# [WhiteCat 2.1 ~ old-blue-lite](https://github.com/varkely/skinhub/raw/main/universal/WhiteCat_2.1_~_old-blue-lite.osk)
+<img src="https://i.imgur.com/sBRaaiv.png">
 
 # [Rafis HDDT](https://github.com/varkely/skinhub/raw/main/universal/Rafis_HDDT.osk)
 <img src="https://i.imgur.com/fjo3DIN.png">
