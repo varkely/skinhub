@@ -5,6 +5,5 @@
     <a href="universal/universal.md">universal skins</a><br>
     <a href="player/player.md">player skins</a><hr>
 
-### test
 ### Contributions 🎉
 ###### If you're interested in contributing to this skinhub, simply open a pull request!
