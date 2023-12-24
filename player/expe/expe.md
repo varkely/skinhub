@@ -3,7 +3,7 @@
 # [Aristia](https://github.com/varkely/skinhub/raw/main/player/expe/asdfghjkl_[Aristia].osk)
 <img src="https://i.imgur.com/jf36PKP.png">
 
-# [NM](https://github.com/varkely/skinhub/raw/main/player/expe/asdfghjkl_%5BNM%5D.osk)
+# [NM](https://github.com/varkely/skinhub/raw/main/player/expe/asdfghjkl_NM.osk)
 <img src="https://i.imgur.com/rH4al0Y.png">
 
 # [DT](https://github.com/varkely/skinhub/raw/main/player/expe/asdfghjkl_[DT].osk)
