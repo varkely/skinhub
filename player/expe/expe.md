@@ -4,9 +4,6 @@
 <img src="https://i.imgur.com/jf36PKP.png">
 
 # [NM](https://github.com/varkely/skinhub/raw/main/player/expe/asdfghjkl_[NM].osk)
-<img src="https://i.imgur.com/g01Ul9b.png">
-
-# [HDHR](https://github.com/varkely/skinhub/raw/main/player/expe/asdfghjkl_[HDHR].osk)
 <img src="https://i.imgur.com/rH4al0Y.png">
 
 # [DT](https://github.com/varkely/skinhub/raw/main/player/expe/asdfghjkl_[DT].osk)
